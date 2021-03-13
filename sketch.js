@@ -54,7 +54,7 @@ function draw() {
 
   background(230);
   textSize(25);
-  text("Press Space to get a second Chance to Play!!",50 ,50);
+  text("Press Space to get a Second Chance!",50 ,50);
   image(boy ,200,340,200,300);
 
   treeObj.display();
